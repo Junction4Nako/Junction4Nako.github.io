@@ -49,7 +49,7 @@ My research focuses on multi-modal learning across vision and language, particul
 **Zejun Li\***, Jiwen Zhang\*, Dianyi Wang\*, Ye Wang\*, Xuanjing Huang, Zhongyu Wei.
 
 [\[**Awesome LMMs Reviewed**\]](https://github.com/FudanDISC/Awesome-Large-Multimodal-Models)
-- We review existing LMMs from an unified perspective: input-output space extension.
+- We review and summarize existing LMMs from an unified and straightforward perspective: input-output space extension.
 - We discuss various model architectures, training datasets, and evaluation stratigies, aiming to provide a comprehensive overview for readers.
 - Our survey also talks about how to extend the input-output space to embodied environments, leaving rooms for future development.
 </div>
@@ -69,9 +69,32 @@ My research focuses on multi-modal learning across vision and language, particul
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/weak_mvlp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Unifying Cross-Lingual and Cross-Modal Modeling Towards Weakly Supervised Multilingual Vision-Language Pre-training](https://aclanthology.org/2023.acl-long.327.pdf). **Zejun Li**, Zhihao Fan, Jingjing Chen, Qi Zhang, Xuanjing Huang, Zhongyu Wei, **ACL 2023**.
-- [MVPTR: Multi-Level Semantic Alignment for Vision-Language Pre-Training via Multi-Stage Learning](https://arxiv.org/pdf/2201.12596). **Zejun Li**, Huaixiao Tou, Jingjing Chen, Zhongyu Wei, Xuanjing Huang. **ACM MM 2022**.
+[Unifying Cross-Lingual and Cross-Modal Modeling Towards Weakly Supervised Multilingual Vision-Language Pre-training](https://aclanthology.org/2023.acl-long.327.pdf)
+
+**Zejun Li**, Zhihao Fan, Jingjing Chen, Qi Zhang, Xuanjing Huang, Zhongyu Wei
+
+[\[**GitHub**\]]([https://github.com/Junction4Nako/mvp_pytorch](https://github.com/FudanDISC/weakly-supervised-mVLP)) [**\[Pretrained Model\]**](https://drive.google.com/file/d/16TNcpCXUGwBwtm4q-HMdxyCbUfEv1yw-/view?usp=sharing)
+- We propose a method to transfer English vision-language models to multilingual scenarios without the need for multilingual image-text data.
+- Leveraging English text as anchors, our model is trained with English image-text pairs and English-to-others translation pairs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/mvptr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MVPTR: Multi-Level Semantic Alignment for Vision-Language Pre-Training via Multi-Stage Learning](https://arxiv.org/pdf/2201.12596)
+
+**Zejun Li**, Huaixiao Tou, Jingjing Chen, Zhongyu Wei, Xuanjing Huang.
+
+[\[**GitHub**\]](https://github.com/Junction4Nako/mvp_pytorch) [**\[Pretrained Model\]**](https://drive.google.com/file/d/1t9S9ejwpit7UO_Y5f9pYnn7p9g-AtWtC/view?usp=sharing)
+- MVPTR is a vision-language pre-trained model with the ability to jointly model multi-level semantic alignment.
+- Integrated with multi-grained information and learning, MVPTR demonstrates superior performance on downstream tasks.
+</div>
+</div>
+
 - [An Unsupervised Sampling Approach for Image-Sentence Matching Using Document-Level Structural Information](https://ojs.aaai.org/index.php/AAAI/article/view/17573/17380). **Zejun Li**, Zhongyu Wei, Zhihao Fan, Haijun Shan, Xuanjing Huang. **AAAI 2021**.
 - [Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs](https://dl.acm.org/doi/10.1145/3589334.3645616). Xinyi Mou, **Zejun Li**, Hanjia Lyu, Jiebo Luo, Zhongyu Wei. **WWW 2024**.
 - [EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models](https://arxiv.org/abs/2406.05756). Mengfei Du\*, Binhao Wu\*, **Zejun Li**, Xuanjing Huang, Zhongyu Wei. **ACL 2024**.
@@ -101,4 +124,9 @@ My research focuses on multi-modal learning across vision and language, particul
 
 # 💻 Internships
 - *2021.09 - 2022.09*, intern of CV algorithm engineer at ByteDance E-Commerce Group, Shanghai, China.
+  - We construct a vision-language pre-trained model to encode video representations for TikTok Shop.
+  - Our model is applied to perform video rating and recommendation, ultimately helping to improve content moderation, distribution efficiency, and recommendation click-through rates.
+  - The reasearch findings are summarized in our [ACM MM 2022 paper](https://arxiv.org/pdf/2201.12596).
 - *2019.06 - 2019.09*, intern of machine learning algorithm enginner at Alibaba Koubei Group, Hangzhou, China.
+  - We develop a algorithm dedicated for distributing coupons for users based on their history behaviors.
+  - By combining deep models with behavioral features, we learn representations of both users and coupons, improving the usage rate of coupons at the same cost.
