@@ -32,7 +32,7 @@ My research focuses on multi-modal learning across vision and language, particul
 
 [VoCoT: Unleashing Visually-Grounded Multi-Step Reasoning in Large Multi-Modal Models](https://arxiv.org/abs/2405.16919)
 
-**Zejun Li***, Ruipu Luo*, Jiwen Zhang, Minghui Qiu, Xuanjing Huang, Zhongyu Wei.
+**Zejun Li\***, Ruipu Luo*, Jiwen Zhang, Minghui Qiu, Xuanjing Huang, Zhongyu Wei.
 
 [**GitHub Project**](https://github.com/RupertLuo/VoCoT) [**Data**](https://huggingface.co/datasets/luoruipu1/VoCoT/) [**Model**](https://huggingface.co/luoruipu1/Volcano-7b/tree/main)
 - We present VoCoT, a multi-modal interleaved reasoning CoT format for MLLM.
@@ -46,11 +46,11 @@ My research focuses on multi-modal learning across vision and language, particul
 
 [Reform-eval: Evaluating large vision language models via unified re-formulation of task-oriented benchmarks"](https://arxiv.org/pdf/2310.02569)
 
-**Zejun Li**, Ruipu Luo*, Jiwen Zhang, Minghui Qiu, Xuanjing Huang, Zhongyu Wei.
+**Zejun Li\***, Ye Wang*, Mengfei Du*, Qingwen Liu*, Binhao Wu*, Jiwen Zhang*, et al.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
-- We design a simple yet effective method to transform existing task-oriented benchmarks to formats that are compatible to evaluate LMMs based on open-ended generation.
-- Please also see [EmbSpatial-Bench]() for a benchmark dedicated for the diagnosis of the main limitation of current LMMs, namely spatial reasoning.
+[**Benchmark Page**](https://github.com/FudanDISC/ReForm-Eval)
+- A simple yet effective method to transform task-oriented benchmarks to formats that are compatible to evaluate LMMs based on open-ended generation.
+- Please also see [EmbSpatial-Bench](https://github.com/mengfeidu/EmbSpatial-Bench) for a benchmark dedicated for the diagnosis of the main limitation of current LMMs, namely spatial reasoning.
 </div>
 </div>
 
