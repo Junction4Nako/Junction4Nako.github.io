@@ -41,12 +41,27 @@ My research focuses on multi-modal learning across vision and language, particul
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Continuous or Discrete, That Is the Question: A Survey on Large Multi-Modal Models from the Perspective of Input-Output Space Extension](https://www.preprints.org/frontend/manuscript/8267896f227ef3f94a645a6b196f0b46/download_pub)
+
+**Zejun Li\***, Jiwen Zhang\*, Dianyi Wang\*, Ye Wang\*, Xuanjing Huang, Zhongyu Wei.
+
+[\[**Awesome LMMs Reviewed**\]](https://github.com/FudanDISC/Awesome-Large-Multimodal-Models)
+- We review existing LMMs from an unified perspective: input-output space extension.
+- We discuss various model architectures, training datasets, and evaluation stratigies, aiming to provide a comprehensive overview for readers.
+- Our survey also talks about how to extend the input-output space to embodied environments, leaving rooms for future development.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/reform.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reform-eval: Evaluating large vision language models via unified re-formulation of task-oriented benchmarks](https://arxiv.org/pdf/2310.02569)
 
-**Zejun Li\***, Ye Wang*, Mengfei Du*, Qingwen Liu*, Binhao Wu*, Jiwen Zhang*, et al.
+**Zejun Li\***, Ye Wang\*, Mengfei Du\*, Qingwen Liu\*, Binhao Wu\*, Jiwen Zhang\*, et al.
 
 [\[**Benchmark Page**\]](https://github.com/FudanDISC/ReForm-Eval)
 - An effective method to transform task-oriented benchmarks to formats that are compatible to evaluate LMMs based on open-ended generation.
