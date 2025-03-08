@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Hi! This is Zejun Li. I am currently a Ph.D. candidate at Fudan Univeristy, where I am fortunate to be advised by Prof. [Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ). I am a member of the [Fudan Data Intelligence and Social Computing (Fudan DISC) lab](http://fudan-disc.com/) and the Fudan NLP group. Previously, I had the opportunity to visit the UCSB (University of California, Santa Barbara) NLP group, where I was worked with Prof. [William Wang](https://sites.cs.ucsb.edu/~william/).
+Hi! This is Zejun Li. I am currently a Ph.D. candidate at Fudan Univeristy, where I am fortunate to be advised by Prof. [Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ). I am a member of the [Fudan Data Intelligence and Social Computing (Fudan DISC) lab](http://fudan-disc.com/) and the Fudan NLP group. Previously, I had the opportunity to visit the UCSB (University of California, Santa Barbara) NLP group, where I worked with Prof. [William Wang](https://sites.cs.ucsb.edu/~william/).
 
 My research focuses on multi-modal learning across vision and language, particularly:
 - Construction and Evaluation of Large Multi-modal Models (LMMs)
 - Exploring Visually-enhanced Reasoning abilities in LMMs
-- Vision-language pre-training
+- Vision-Language Pre-training
 
 # 📝 Publications 
 
@@ -79,6 +79,7 @@ My research focuses on multi-modal learning across vision and language, particul
 [\[**GitHub**\]]([https://github.com/Junction4Nako/mvp_pytorch](https://github.com/FudanDISC/weakly-supervised-mVLP)) [**\[Pretrained Model\]**](https://drive.google.com/file/d/16TNcpCXUGwBwtm4q-HMdxyCbUfEv1yw-/view?usp=sharing)
 - We propose a method to transfer English vision-language models to multilingual scenarios without the need for multilingual image-text data.
 - Leveraging English text as anchors, our model is trained with English image-text pairs and English-to-others translation pairs.
+- Multi-modal ability learned from English image-text data can be transfered across languages with our method.
 </div>
 </div>
 
@@ -124,7 +125,7 @@ My research focuses on multi-modal learning across vision and language, particul
 
 # 💻 Internships
 - *2021.09 - 2022.09*, intern of CV algorithm engineer at ByteDance E-Commerce Group, Shanghai, China.
-  - We construct a vision-language pre-trained model to encode video representations for TikTok Shop.
+  - We construct a vision-language pre-trained model to encode video representations for Douyin Shop.
   - Our model is applied to perform video rating and recommendation, ultimately helping to improve content moderation, distribution efficiency, and recommendation click-through rates.
   - The reasearch findings are summarized in our [ACM MM 2022 paper](https://arxiv.org/pdf/2201.12596).
 - *2019.06 - 2019.09*, intern of machine learning algorithm enginner at Alibaba Koubei Group, Hangzhou, China.
