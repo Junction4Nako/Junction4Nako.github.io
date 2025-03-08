@@ -17,14 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! This is Zejun Li. I am currently a Ph.D. candidate at Fudan Univeristy under the supervison from Prof. Zhongyu Wei. I have also spent some time visiting UCSB NLP group, advised by Prof. William Wang.
+# About Me
+Hi! This is Zejun Li. I am currently a Ph.D. candidate at Fudan Univeristy, where I am fortunate to be advised by Prof. [Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ). I am a member of the Fudan DISC lab and the Fudan NLP group. Previously, I had the opportunity to visit the UCSB (University of California, Santa Barbara) NLP group, where I was worked with Prof. [William Wang](https://sites.cs.ucsb.edu/~william/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My research focuses on multi-modal learning across vision and language, especially on multi-modal large language models and vision-language pre-training.
 
 # 📝 Publications 
 
