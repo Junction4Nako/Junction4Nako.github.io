@@ -21,8 +21,8 @@ redirect_from:
 Hi! This is Zejun Li. I am currently a Ph.D. candidate at Fudan Univeristy, where I am fortunate to be advised by Prof. [Zhongyu Wei](https://scholar.google.com/citations?user=AjLDxxgAAAAJ). I am a member of the [Fudan Data Intelligence and Social Computing (Fudan DISC) lab](http://fudan-disc.com/) and the Fudan NLP group. Previously, I had the opportunity to visit the UCSB (University of California, Santa Barbara) NLP group, where I was worked with Prof. [William Wang](https://sites.cs.ucsb.edu/~william/).
 
 My research focuses on multi-modal learning across vision and language, particularly:
-- Construction and Evaluation of Multi-modal Large Language Models (MLLMs)
-- Exploring Visually-enhanced Reasoning abilities in MLLMs
+- Construction and Evaluation of Large Multi-modal Models (LMMs)
+- Exploring Visually-enhanced Reasoning abilities in LMMs
 - Vision-language pre-training
 
 # 📝 Publications 
@@ -32,22 +32,25 @@ My research focuses on multi-modal learning across vision and language, particul
 
 [VoCoT: Unleashing Visually-Grounded Multi-Step Reasoning in Large Multi-Modal Models](https://arxiv.org/abs/2405.16919)
 
-**Zejun Li**, Ruipu Luo*, Jiwen Zhang, Minghui Qiu, Xuanjing Huang, Zhongyu Wei.
+**Zejun Li***, Ruipu Luo*, Jiwen Zhang, Minghui Qiu, Xuanjing Huang, Zhongyu Wei.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**GitHub Project**](https://github.com/RupertLuo/VoCoT) [**Data**](https://huggingface.co/datasets/luoruipu1/VoCoT/) [**Model**](https://huggingface.co/luoruipu1/Volcano-7b/tree/main)
+- We present VoCoT, a multi-modal interleaved reasoning CoT format for MLLM.
+- We construct a SFT dataset to enable LMMs to reason with VoCoT!
+- We construct VolCano, a VoCoT-enhanced LMM, which is able to perform reasoning with visually-grounded and highly explainable thoughts!
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/vocot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/reform.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reform-eval: Evaluating large vision language models via unified re-formulation of task-oriented benchmarks"](https://arxiv.org/pdf/2310.02569)
 
 **Zejun Li**, Ruipu Luo*, Jiwen Zhang, Minghui Qiu, Xuanjing Huang, Zhongyu Wei.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+- We design a simple yet effective method to transform existing task-oriented benchmarks to formats that are compatible to evaluate LMMs based on open-ended generation.
+- Please also see [EmbSpatial-Bench]() for a benchmark dedicated for the diagnosis of the main limitation of current LMMs, namely spatial reasoning.
 </div>
 </div>
 
