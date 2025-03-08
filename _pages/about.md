@@ -65,17 +65,25 @@ My research focuses on multi-modal learning across vision and language, particul
 - [Constructing phrase-level semantic labels to form multi-grained supervision for image-text retrieval](https://arxiv.org/pdf/2109.05523). Zhihao Fan, Zhongyu Wei, **Zejun Li**, Siyuan Wang, Haijun Shan, Xuanjing Huang, Jianqing Fan. **ICMR 2022**.
 - [Tcic: Theme concepts learning cross language and vision for image captioning](https://arxiv.org/pdf/2106.10936). Zhihao Fan, Zhongyu Wei, Siyuan Wang, Ruize Wang, **Zejun Li**, Haijun Shan, Xuanjing Huang. **IJCAI 2021**.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2026.06 (estimated)*, Ph.D. Candidate in Statistics (Statistical Machine Learning Direction), Fudan University, Shanghai, China. 
+- *2016.09 - 2020.06*, Bachelor of Computer Science, Fudan University, Shanghai, China. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Teaching and Service
+## Teaching Assistant
+- Head TA for "Introduction to Artificial Intelligence", Fudan University, *Spring 2020, 2021, Fall 2022*.
+- Organizer for "NLP training camp of Fudan DISC", Fudan University, *Spring 2023*.
+
+## Program Committee:
+- Area Chair of Multi-Modality: EMNLP 2024, NAACL 2025.
+- Reviewer: ACL, EMNLP, AAAI, IJCAI, CL, ACM MM, TKDD, NLPCC, CCL.
+
+## Invited Talks
+- "Evolution of the Vision-Language Pre-traning Framework", *in CSSNLP 2022 Student Seminar*.
+- "How to Eficiently Conduct Team-based Research?", *in SMP 2023, Student Seminar*.
+- "Rethinking Research Direction Selection in Your Graduate Career", *in YSSNLP 2024, Student Seminar*.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.09 - 2022.09*, intern of CV algorithm engineer at ByteDance E-Commerce Group, Shanghai, China.
+- *2019.06 - 2019.09*, intern of machine learning algorithm enginner at Alibaba Koubei Group, Hangzhou, China.
