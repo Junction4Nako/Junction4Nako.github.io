@@ -36,7 +36,7 @@ My research focuses on multi-modal learning across vision and language, particul
 
 [\[**GitHub Project (Coming Soon)**\]](https://junction4nako.github.io/)
 - We present Mixture-of-Visual-Thoughts, an adaptive reasoning paradigm that unifies different thinking modes within one model and guides it to select the appropriate one based on context.
-- We introduce AdaVaR, an adaptive learning framework, including a well-designed AdaGRPO RL algorithm to induce context-adaptive mode selection capabilities.
+- We introduce an adaptive learning framework, including an RL algorithm AdaGRPO, tailored for inducing context-adaptive mode selection capabilities.
 - We construct AdaVaR-3B and AdaVaR-7B, which achieve consistent improvement across various scenarious!
 </div>
 </div>
@@ -52,6 +52,20 @@ My research focuses on multi-modal learning across vision and language, particul
 - We present VoCoT, a multi-modal interleaved reasoning CoT format for MLLM.
 - We construct a SFT dataset to enable LMMs to reason with VoCoT!
 - We construct VolCano, a VoCoT-enhanced LMM, which is able to perform reasoning with visually-grounded and highly explainable thoughts!
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AutoJudger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/abs/2505.21389)
+
+Xuanwen Ding\*, Chengjun Pan\*, **Zejun Li\***, Jiwen Zhang\*, Siyuan Wang, Zhongyu Wei.
+
+[\[**GitHub Project**\]](https://github.com/IMNearth/AutoJudger)
+- We formulate the task of multi-modal efficient benchmarking: select representative subsets from benchmarks for efficient evaluation.
+- We propose an agent-driven framework, AutoJudger, which leverages an interviewer agent to dynamically select suitable questions for the subject (the evaluated model).
+- With AutoJudger, only 2\%~5\% data (<10\% computational cost) leads to >90\% consistency with full-scale evaluation for most benchmarks.
 </div>
 </div>
 
