@@ -125,6 +125,7 @@ Xuanwen Ding\*, Chengjun Pan\*, **Zejun Li\***, Jiwen Zhang\*, Siyuan Wang, Zhon
 </div>
 
 - [An Unsupervised Sampling Approach for Image-Sentence Matching Using Document-Level Structural Information](https://ojs.aaai.org/index.php/AAAI/article/view/17573/17380). **Zejun Li**, Zhongyu Wei, Zhihao Fan, Haijun Shan, Xuanjing Huang. **AAAI 2021**.
+- [Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference](https://arxiv.org/pdf/2412.12785?). Siyuan Wang*, Dianyi Wang*, Chengxing Zhou*, Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei. **ACL 2025**
 - [Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs](https://dl.acm.org/doi/10.1145/3589334.3645616). Xinyi Mou, **Zejun Li**, Hanjia Lyu, Jiebo Luo, Zhongyu Wei. **WWW 2024**.
 - [EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models](https://arxiv.org/abs/2406.05756). Mengfei Du\*, Binhao Wu\*, **Zejun Li**, Xuanjing Huang, Zhongyu Wei. **ACL 2024**.
 - [DELAN: Dual-Level Alignment for Vision-and-Language Navigation by Cross-Modal Contrastive Learning](https://arxiv.org/abs/2404.01994). Mengfei Du\*, Binhao Wu\*, Jiwen Zhang, Zhihao Fan, **Zejun Li**, Ruipu Luo, Xuanjing Huang, Zhongyu Wei. **COLING 2024**.
@@ -152,6 +153,10 @@ Xuanwen Ding\*, Chengjun Pan\*, **Zejun Li\***, Jiwen Zhang\*, Siyuan Wang, Zhon
 - "Rethinking Research Direction Selection in Your Graduate Career", *in YSSNLP 2024, Student Seminar*.
 
 # 💻 Internships
+- *2025.05 - Now*, intern of T-Star Lab at Taobao & Tmall Group of Alibaba, Beijing, China.
+  - T-Star Lab is a premier internship program for top talent within the Taobao & Tmall Group.
+  - We explore a novel adaptive visual reasoning paradigm, Mixture-of-Visual-Thoughts.
+  - By unifying different reasoning modes within a single model and guiding it to adaptively select the appropriate mode based on the questions, our AdaVaR model achieves consistent improvement across various domains.
 - *2021.09 - 2022.09*, intern of CV algorithm engineer at ByteDance E-Commerce Group, Shanghai, China.
   - We construct a vision-language pre-trained model to encode video representations for Douyin Shop.
   - Our model is applied to perform video rating and recommendation, ultimately helping to improve content moderation, distribution efficiency, and recommendation click-through rates.
