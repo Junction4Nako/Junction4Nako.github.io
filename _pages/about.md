@@ -27,6 +27,20 @@ My research focuses on multi-modal learning across vision and language, particul
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/summary_movt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mixture-of-Visual-Thoughts: Exploring Context-Adaptive Reasoning Mode Selection for General Visual Reasoning](https://github.com/Junction4Nako/Junction4Nako.github.io/blob/main/docs/Mixture-of-Visual-Thoughts.pdf)
+
+**Zejun Li\***, Yingxiu Zhao*, Jiwen Zhang, Siyuan Wang, Yang Yao, Runzhou Zhao, Jun Song, Bo Zheng, Zhongyu Wei.
+
+[\[**GitHub Project (Coming Soon)**\]](https://junction4nako.github.io/)
+- We present Mixture-of-Visual-Thoughts, an adaptive reasoning paradigm that unifies different thinking modes within one model and guides it to select the appropriate one based on context.
+- We introduce AdaVaR, an adaptive learning framework, including a well-designed AdaGRPO RL algorithm to induce context-adaptive mode selection capabilities.
+- We construct AdaVaR-3B and AdaVaR-7B, which achieve consistent improvement across various scenarious!
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/vocot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
