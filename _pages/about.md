@@ -55,7 +55,7 @@ My research focuses on multi-modal learning across vision and language, particul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AutoJudger.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/autojudger.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs](https://arxiv.org/abs/2505.21389)
@@ -125,7 +125,7 @@ Xuanwen Ding\*, Chengjun Pan\*, **Zejun Li\***, Jiwen Zhang\*, Siyuan Wang, Zhon
 </div>
 
 - [An Unsupervised Sampling Approach for Image-Sentence Matching Using Document-Level Structural Information](https://ojs.aaai.org/index.php/AAAI/article/view/17573/17380). **Zejun Li**, Zhongyu Wei, Zhihao Fan, Haijun Shan, Xuanjing Huang. **AAAI 2021**.
-- [Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference](https://arxiv.org/pdf/2412.12785?). Siyuan Wang*, Dianyi Wang*, Chengxing Zhou*, Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei. **ACL 2025**
+- [Activating Distributed Visual Region within LLMs for Efficient and Effective Vision-Language Training and Inference](https://arxiv.org/pdf/2412.12785?). Siyuan Wang\*, Dianyi Wang\*, Chengxing Zhou\*, Zejun Li, Zhihao Fan, Xuanjing Huang, Zhongyu Wei. **ACL 2025**
 - [Unifying Local and Global Knowledge: Empowering Large Language Models as Political Experts with Knowledge Graphs](https://dl.acm.org/doi/10.1145/3589334.3645616). Xinyi Mou, **Zejun Li**, Hanjia Lyu, Jiebo Luo, Zhongyu Wei. **WWW 2024**.
 - [EmbSpatial-Bench: Benchmarking Spatial Understanding for Embodied Tasks with Large Vision-Language Models](https://arxiv.org/abs/2406.05756). Mengfei Du\*, Binhao Wu\*, **Zejun Li**, Xuanjing Huang, Zhongyu Wei. **ACL 2024**.
 - [DELAN: Dual-Level Alignment for Vision-and-Language Navigation by Cross-Modal Contrastive Learning](https://arxiv.org/abs/2404.01994). Mengfei Du\*, Binhao Wu\*, Jiwen Zhang, Zhihao Fan, **Zejun Li**, Ruipu Luo, Xuanjing Huang, Zhongyu Wei. **COLING 2024**.
