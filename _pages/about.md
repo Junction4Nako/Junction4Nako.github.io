@@ -65,7 +65,7 @@ Xuanwen Ding\*, Chengjun Pan\*, **Zejun Li\***, Jiwen Zhang\*, Siyuan Wang, Zhon
 [\[**GitHub Project**\]](https://github.com/IMNearth/AutoJudger)
 - We formulate the task of multi-modal efficient benchmarking: select representative subsets from benchmarks for efficient evaluation.
 - We propose an agent-driven framework, AutoJudger, which leverages an interviewer agent to dynamically select suitable questions for the subject (the evaluated model).
-- With AutoJudger, only 2\%~5\% data (<10\% computational cost) leads to >90\% consistency with full-scale evaluation for most benchmarks.
+- With AutoJudger, only 2%~5% data (<10% computational cost) leads to >90% consistency with full-scale evaluation for most benchmarks.
 </div>
 </div>
 
