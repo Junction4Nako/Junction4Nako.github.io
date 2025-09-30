@@ -30,7 +30,7 @@ My research focuses on multi-modal learning across vision and language, particul
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/summary_movt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mixture-of-Visual-Thoughts: Exploring Context-Adaptive Reasoning Mode Selection for General Visual Reasoning](https://github.com/Junction4Nako/Junction4Nako.github.io/blob/main/docs/Mixture-of-Visual-Thoughts.pdf)
+[Mixture-of-Visual-Thoughts: Exploring Context-Adaptive Reasoning Mode Selection for General Visual Reasoning](https://arxiv.org/abs/2509.22746)
 
 **Zejun Li\***, Yingxiu Zhao*, Jiwen Zhang, Siyuan Wang, Yang Yao, Runzhou Zhao, Jun Song, Bo Zheng, Zhongyu Wei.
 
